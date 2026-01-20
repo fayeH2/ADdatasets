@@ -10,6 +10,16 @@
 </p>
 
 
+<p align="center">
+  <img alt="Dataset" src="https://img.shields.io/badge/type-dataset-blue">
+  <img alt="Task" src="https://img.shields.io/badge/task-anomaly%20detection-6f42c1">
+  <img alt="Domain" src="https://img.shields.io/badge/domain-industrial%20medical-22863a">
+  <a href="https://github.com/fayeH2/ADdatasets/stargazers">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/fayeH2/ADdatasets?style=flat&color=yellow&logo=github">
+  </a>
+</p>
+
+
 <a name="overview"></a>
 ## 📌 Overview 
 
