@@ -5,8 +5,8 @@
   <a href="#overview">Overview</a> •
   <a href="#datasets">Datasets</a> •
   <a href="#format">Format</a> •
-  <a href="#contact">Contact</a> •
-  <a href="#acknowledgements">Acknowledgements</a>
+  <a href="#acknowledgements">Acknowledgements</a> •
+  <a href="#contact">Contact</a> 
 </p>
 
 
